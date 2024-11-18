@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Shaoxiang. I am a PhD student majoring in Engineering mathematics in University of bristol.
+- 🔭 I’m currently learning Soft robotics.
+- 🌱 I’m currently learning ...
 
 <!--
 **xiachong12138/xiachong12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
