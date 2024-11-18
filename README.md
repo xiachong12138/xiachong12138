@@ -14,6 +14,7 @@ I am a PhD student majoring in Engineering mathematics in University of bristol.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
+<img src="https://yourgifurl.com" width="400" />
 
 <!--
 **xiachong12138/xiachong12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
