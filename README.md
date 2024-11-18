@@ -1,6 +1,6 @@
-## Hi there 👋
-I am Shaoxiang. I am a PhD student majoring in Engineering mathematics in University of bristol.
-- 🔭 I’m currently learning Soft robotics.
+## Hi there 👋 I am Shaoxiang
+I am a PhD student majoring in Engineering mathematics in University of bristol.
+- 🔭 I’m currently learning Soft Robotics.
 - 🌱 I’m currently learning ...
 
 <!--
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+f
